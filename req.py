@@ -10,7 +10,7 @@ print(res.text)
 print(res.json())
 print(type(res.json()))
 
-# PUT запрос
+# POST запрос
 
 url = 'https://petstore.swagger.io/v2/pet'
 
