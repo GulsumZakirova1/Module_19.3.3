@@ -1,2 +1,2 @@
 # Module_19.3.3
-Для написания запросов GET, POST, DELETE, PUT использовалось свободное API https://petstore.swagger.io/
+Выполнить все запросы и напечатать при помощи команды print ответы запросов с спользованием свободного API https://petstore.swagger.io/
